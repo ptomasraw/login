@@ -6,7 +6,7 @@
     .div_login{
       width: 450px;
       margin: auto;
-      margin-top: 250px;
+      margin-top: 70px;
       border: solid;
       border-color: rgb(199, 199, 199);
       border-radius: 15px;
@@ -99,4 +99,5 @@
       padding-left: 20px;
       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       font-size: 15px;
+
     }
